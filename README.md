@@ -15,10 +15,10 @@ A Python script to help you learn Chinese characters.
 
 ## Instructions
 To get started with the Chinese Character Trainer, follow these steps:
-* Clone this repository to your local machine using the command: `git clone https://github.com/0x736e6f776f776c/chinese-character-trainer.git`
-* Navigate into the repository using the command: `cd chinese-character-trainer`
+* Clone this repository to your local machine using the command: `git clone https://github.com/0x736e6f776f776c/Chinese-Character-Trainer.git`
+* Navigate into the repository using the command: `cd Chinese-Character-TTrainer`
 * Install the required libraries by running `pip install -r requirements.txt`
-* Run the script by executing `python chinese_character_trainer.py`
+* Run the script by executing `python main.py`
 
 Note: You will be prompted to choose between Traditional and Simplified Chinese characters every time you run the script.
 
